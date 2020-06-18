@@ -438,15 +438,15 @@
     background: #9b9b9b;
   }
   
-  #colorboxes {
-    padding: 60px 0;
-  }
+  
   #colorboxes .row {
     margin-bottom: 1rem;
   }
   
 
-  
+   #typeface, #colorboxes, #buttons, #radios, #checkboxes, #forms, #dropdowns, #tables, #images, #videos {
+    padding: 30px 0;
+  }
 
 
   .table {
