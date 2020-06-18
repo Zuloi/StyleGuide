@@ -445,9 +445,7 @@
     margin-bottom: 1rem;
   }
   
-  #buttonsample, #RadiosCheckboxes, #Forms, #Dropdowns {
-    padding: 60px 0;
-  }
+
   
 
 
@@ -455,39 +453,39 @@
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
-}
-.table th {
+  }
+  .table th {
     text-align: left;
     font-weight: normal;
     background-color: #0090af;
     color: white;
     padding: 10px 15px;
-}
-.table tbody tr {
+  }
+  .table tbody tr {
     border-bottom: 1px solid #0090af;
-}
-.table tbody tr td {
+  }
+  .table tbody tr td {
     padding: 10px 15px;
-}
+  }
 
 
-.table td.cell-right {
+  .table td.cell-right {
     text-align: right;
-}
-.table-striped tbody tr:nth-child(even) {
+  }
+  .table-striped tbody tr:nth-child(even) {
     background-color: #eee;
-}
+  }
 
 
-div.image {
+  div.image {
     position: relative;
     display: inline-block;
 
     border-radius: 15px;
     line-height: 0;
     overflow: hidden;
-}
-div.image span.caption {
+  }
+  div.image span.caption {
     position: absolute;
     left: 0;
     bottom: 0px;
@@ -498,12 +496,12 @@ div.image span.caption {
     background: rgba(0,0,0,0.5);
     color: white;
     line-height: normal;
-}
+  }
 
-div.image-invert span.caption {
+  div.image-invert span.caption {
     background: rgba(255,255,255,0.3);
-}
+  }
 
-.madeby{
-  color:rgba(255, 255, 255, 0.7);  
-}
+  .madeby{
+    color:rgba(255, 255, 255, 0.7);  
+  }
