@@ -53,12 +53,14 @@
     border-radius: 99px;
     padding: 10px 33px;
     border-width: 2px;
+    text-decoration:underline;
   }
   .btn:focus {
     outline: 0 !important;
   }
   .btn:hover {
     color: #0090af;
+    text-decoration:underline !important;
   }
   .btn:active {
     box-shadow: none;
@@ -493,13 +495,13 @@
     display: inline-block;
     width: 100%;
     padding: 10px 0;
-    background: rgba(0,0,0,0.5);
+    background: #9b9b9b;
     color: white;
     line-height: normal;
   }
 
   div.image-invert span.caption {
-    background: rgba(255,255,255,0.3);
+    background: #9b9b9b;
   }
 
   .madeby{
